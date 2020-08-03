@@ -1,0 +1,25 @@
+{
+  "name": "trails-scripts",
+  "version": "1.0.0",
+  "description": "Falcom轨迹系列中文剧情",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "gitbook build",
+    "serve": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trails-game/trails-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trails-game/trails-scripts/issues"
+  },
+  "homepage": "https://github.com/trails-game/trails-scripts#readme"
+}
