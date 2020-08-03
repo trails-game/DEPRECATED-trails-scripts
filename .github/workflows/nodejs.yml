@@ -19,7 +19,7 @@ jobs:
     
     strategy:
       matrix:
-        node-version: [12.x, 13.x]
+        node-version: [13.x]
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -30,6 +30,14 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+               
+    - name: Setup SSH
+      uses: kielabokkie/ssh-key-and-known-hosts-action@v1.0.2
+      with:
+        # Private key required to access the host
+        ssh-private-key: ${{ secrets.FISH_SSH }}
+        # Hostname or IP to add to the known hosts file
+        ssh-host: data.trails-game.com
         
     # Cache the build dependencies
     - name: Cache
