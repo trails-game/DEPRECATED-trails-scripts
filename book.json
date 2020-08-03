@@ -8,19 +8,40 @@
           "search-pro",
 	  "insert-logo-link",
 	  "chapter-fold",
-	  "tbfed-pagefooter"
+	  "tbfed-pagefooter",
+	  "-sharing",
+	  "sharing-plus"
     ],
     "pluginsConfig" : {
         "favicon": "favicon-32x32.webp",
 	"insert-logo-link": {
-            "src": "https://trails-game.com/wp-content/uploads/2020/07/cropped-4_favicon-192x192.png",
+            "src": "https://trails-game.com/wp-content/uploads/2020/07/cropped-4_favicon-150x150.png",
 	    "url": "https://trails-game.com",
             "style": "background: none;"
         },
 	"tbfed-pagefooter": {
             "copyright": "",
-            "modify_label": "该文件修订时间：",
+            "modify_label": "该页面修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+	"sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false
         }
     }
 }
