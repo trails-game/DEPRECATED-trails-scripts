@@ -3,6 +3,8 @@
 * [前言](README.md)
 * [碧之轨迹全剧情对话](aoi/summary.md)
   * [第一章: 预兆～崭新的日子](aoi/chapter-1.md)
+* [零之轨迹](zero/summary.md)
+  * [第一章](zero/chapter-1.md)
 * [空之轨迹FC](sora-fc/summary.md)
   * [第一章](sora-fc/chapter-1.md)
 * [空之轨迹SC](sora-sc/summary.md)
