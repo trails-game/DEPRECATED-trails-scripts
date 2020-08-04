@@ -9,6 +9,7 @@
     "gitbook-plugin-chapter-fold": "0.0.4",
     "gitbook-plugin-custom-favicon": "0.0.4",
     "gitbook-plugin-insert-logo-link": "^1.0.1",
+    "gitbook-plugin-page-treeview": "^3.0.2",
     "gitbook-plugin-search-pro": "^2.0.2",
     "gitbook-plugin-sharing-plus": "0.0.2",
     "gitbook-plugin-splitter": "0.0.8",

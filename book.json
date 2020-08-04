@@ -1,30 +1,31 @@
 {
     "plugins": [
          "back-to-top-button",
-	  "splitter",
-	  "custom-favicon",
-	  "-lunr",
+          "splitter",
+          "custom-favicon",
+          "-lunr",
           "-search",
           "search-pro",
-	  "insert-logo-link",
-	  "chapter-fold",
-	  "tbfed-pagefooter",
-	  "-sharing",
-	  "sharing-plus"
+          "insert-logo-link",
+          "chapter-fold",
+          "tbfed-pagefooter",
+          "-sharing",
+          "sharing-plus",
+          "page-treeview"
     ],
     "pluginsConfig" : {
         "favicon": "favicon-32x32.webp",
-	"insert-logo-link": {
+        "insert-logo-link": {
             "src": "https://trails-game.com/wp-content/uploads/2020/07/cropped-4_favicon-150x150.png",
-	    "url": "https://trails-game.com",
+            "url": "https://trails-game.com",
             "style": "background: none;"
         },
-	"tbfed-pagefooter": {
+        "tbfed-pagefooter": {
             "copyright": "",
             "modify_label": "该页面修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-	"sharing": {
+        "sharing": {
             "douban": false,
             "facebook": false,
             "google": false,
@@ -42,6 +43,11 @@
             "vk": false,
             "weibo": true,
             "whatsapp": false
+        },
+        "page-treeview": {
+            "copyright": "",
+            "minHeaderCount": "4",
+            "minHeaderDeep": "2"
         }
     }
 }
