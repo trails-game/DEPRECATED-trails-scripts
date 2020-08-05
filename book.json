@@ -10,7 +10,6 @@
           "chapter-fold",
           "tbfed-pagefooter",
           "-sharing",
-          "sharing-plus",
           "page-treeview"
     ],
     "pluginsConfig" : {
@@ -24,25 +23,6 @@
             "copyright": "",
             "modify_label": "该页面修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
-        "sharing": {
-            "douban": false,
-            "facebook": false,
-            "google": false,
-            "hatenaBookmark": false,
-            "instapaper": false,
-            "line": false,
-            "linkedin": false,
-            "messenger": false,
-            "pocket": false,
-            "qq": true,
-            "qzone": false,
-            "stumbleupon": false,
-            "twitter": false,
-            "viber": false,
-            "vk": false,
-            "weibo": true,
-            "whatsapp": false
         },
         "page-treeview": {
             "copyright": "",
