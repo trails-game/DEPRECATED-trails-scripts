@@ -55,4 +55,4 @@ jobs:
       run: npm run build
 
     - name: Upload to server
-      run: rsync -av ./_book/ root@data.trails-game.com:/var/www/book/
+      run: rsync -av ./_book/ root@data.trails-game.com:/var/www/book/ --delete-before
