@@ -1,6 +1,12 @@
 # Summary
 
 * [前言](README.md)
+* [闪之轨迹 IV](sen4/summary.md)
+  * [place-holder](sen4/chapter-1.md)
+* [闪之轨迹 III](sen3/summary.md)
+  * [place-holder](sen3/chapter-1.md)
+* [闪之轨迹 II](sen2/summary.md)
+  * [place-holder](sen2/chapter-1.md)
 * [闪之轨迹 I](sen1/summary.md)
   * [place-holder](sen1/chapter-1.md)
 * [碧之轨迹全剧情对话](aoi/summary.md)
