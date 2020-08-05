@@ -2,6 +2,7 @@
 
 * [前言](README.md)
 * [闪之轨迹 I](sen1/summary.md)
+  * [place-holder](sen1/chapter-1.md)
 * [碧之轨迹全剧情对话](aoi/summary.md)
   * [第一章: 预兆～崭新的日子](aoi/chapter-1.md)
   * [第二章: xxxx](aoi/chapter-2.md)
