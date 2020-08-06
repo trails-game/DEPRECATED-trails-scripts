@@ -21,3 +21,4 @@
 * [空之轨迹FC](sora-fc/summary.md)
   * [序章](sora-fc/chapter-0.md)
   * [第一章](sora-fc/chapter-1.md)
+  * [第二章](sora-fc/chapter-2.md)
