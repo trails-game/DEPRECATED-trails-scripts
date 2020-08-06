@@ -1,5 +1,11 @@
 ## 闪之轨迹 IV - 剧情简介
 
+<audio controls autoplay style="width: 80%">
+ <source src="https://vgmdownloads.com/soundtracks/the-legend-of-heroes-trails-of-cold-steel-iv-the-end-of-saga-original-soundtrack/ehdvgyrwvz/68%20%E6%99%B4%E3%82%8C%E6%B8%A1%E3%82%8B%E7%A9%BA%E3%81%AB.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
+
 ### 故事背景
 
 七耀历1206年7月17日，虽然由共和国特工潜入事件以及幻兽的出现，众人仍然享受着帝都仲夏节欢快的时光，黎恩也在与克雷格中将、奥斯本宰相的交谈中得知了自己身世的部分秘密。在仲夏节晚会中，亚修由于诅咒的影响，使用共和国乌尔努公司制的特殊手枪，射“杀”了埃雷波尼亚帝国皇帝尤肯特III世。整个帝国由于皇帝的遇刺顿时陷入一片阴霾之中，奥斯本宰相借此契机发布国家总动员令，向卡尔瓦德共和国宣战。同时，卡雷尔离宫处再度发生异变，出现了黑色星杯，曾经的友人如今都成为了阻挡在面前的敌人，新旧VII班合力进入了黑色星杯的最下层，然而，搭载着奥利维特皇子、亚尔赛德子爵以及游击士托瓦尔在尝试进入星杯的过程中发生爆炸，米莉亚姆为保护黎恩与亚尔缇娜，牺牲自己成为终末之剑，黎恩因此失控，屠杀受诅咒的大地圣兽，诅咒迅速蔓延至帝国各处，世界的黄昏就此拉开了序幕……
@@ -107,10 +113,3 @@
 阻挡在新旧Ⅶ班眼前的众多考验──那些曾与众人见过几次面的老面孔纷纷与他们对峙，并且被击退。击败赛德利克皇太子的《绯之骑神》与卢法斯总督的《金之骑神》的《相克》后，众人终于在中枢地点看到了《铁血》奥斯本。  
 到了这一步，终于实际感受到他是自己的『亲生父亲』的黎恩，与伙伴们一起面对最后、最大的考验。  
 不久之后，《最终相克》的时刻到来，《黑》与《灰》──父与子在白色的黑暗中挥剑交战……  
-
-
-<audio controls autoplay style="width: 80%">
- <source src="https://vgmdownloads.com/soundtracks/the-legend-of-heroes-trails-of-cold-steel-iv-the-end-of-saga-original-soundtrack/ehdvgyrwvz/68%20%E6%99%B4%E3%82%8C%E6%B8%A1%E3%82%8B%E7%A9%BA%E3%81%AB.mp3" type="audio/mpeg">
- Your browser does not support the audio element.
-</audio>
-
