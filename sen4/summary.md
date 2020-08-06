@@ -108,3 +108,9 @@
 到了这一步，终于实际感受到他是自己的『亲生父亲』的黎恩，与伙伴们一起面对最后、最大的考验。  
 不久之后，《最终相克》的时刻到来，《黑》与《灰》──父与子在白色的黑暗中挥剑交战……  
 
+
+<audio controls autoplay style="width: 80%">
+ <source src="https://vgmdownloads.com/soundtracks/the-legend-of-heroes-trails-of-cold-steel-iv-the-end-of-saga-original-soundtrack/ehdvgyrwvz/68%20%E6%99%B4%E3%82%8C%E6%B8%A1%E3%82%8B%E7%A9%BA%E3%81%AB.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio>
+
