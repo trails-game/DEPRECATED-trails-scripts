@@ -122,6 +122,6 @@
 「──那么就开始吧，黎·恩·。为世界染上绝望，昏暗终末的童话故事。」  
 
 <audio controls autoplay style="width: 80%">
- <source src="bgms/Things-Entrusted.mp3" type="audio/mpeg">
+ <source src="bgms/things-entrusted.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
 </audio>
