@@ -1,6 +1,6 @@
 ## 闪之轨迹 IV - 剧情简介
 
-<audio controls autoplay style="width: 80%">
+<audio controls autoplay loop style="width: 100%">
  <source src="../bgms/In-a-Clear-Sky.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
 </audio>
