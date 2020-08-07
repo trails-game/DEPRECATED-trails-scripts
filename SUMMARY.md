@@ -22,3 +22,4 @@
   * [序章](sora-fc/chapter-0.md)
   * [第一章](sora-fc/chapter-1.md)
   * [第二章](sora-fc/chapter-2.md)
+  * [第三章](sora-fc/chapter-3.md)
