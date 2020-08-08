@@ -1,5 +1,10 @@
 ## 第三章: 黑色导力器
 
+<audio controls autoplay loop style="width: 100%">
+	<source src="../bgms/工房都市ツァイス.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
 ### 调查黑色导力器
 
 **——卢安市·北街区**

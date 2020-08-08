@@ -1,5 +1,10 @@
 ## 第一章: 消失的定期船
 
+<audio controls autoplay loop style="width: 100%">
+	<source src="../bgms/商業都市ボース.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
 ### 从洛连特地区出发
 
 （次日——）
