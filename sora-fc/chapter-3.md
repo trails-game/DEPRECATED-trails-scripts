@@ -1,6 +1,6 @@
 ## 第三章: 黑色导力器
 
-<audio controls autoplay loop style="width: 100%">
+<audio controls loop style="width: 100%">
 	<source src="../bgms/工房都市ツァイス.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>

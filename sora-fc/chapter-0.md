@@ -1,6 +1,6 @@
 ## 序章: 父亲，启程
 
-<audio controls autoplay loop style="width: 100%">
+<audio controls loop style="width: 100%">
 	<source src="../bgms/地方都市ロレント.mp3" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
