@@ -6,7 +6,7 @@
 * [闪之轨迹 III](sen3/summary.md)
   * [place-holder](sen3/chapter-1.md)
 * [闪之轨迹 II](sen2/summary.md)
-  * [place-holder](sen2/chapter-1.md)
+  * [外传 「边境小镇阿尔斯塔」](sen2/memoir.md)
 * [闪之轨迹 I](sen1/summary.md)
   * [幕间 「返乡～迷惘的尽头～」](sen1/intermission.md)
 * [碧之轨迹全剧情对话](aoi/summary.md)
