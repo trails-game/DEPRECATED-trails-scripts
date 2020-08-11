@@ -31,7 +31,7 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-               
+
     - name: Setup SSH for target host
       uses: kielabokkie/ssh-key-and-known-hosts-action@v1.0.2
       with:
@@ -40,6 +40,8 @@ jobs:
         # Hostname or IP to add to the known hosts file
         ssh-host: ${{ matrix.target-host }}
         
+    - run: echo ${{ matrix.target-host }}
+
     # Cache the build dependencies
     - name: Cache
       uses: actions/cache@v2.1.0
