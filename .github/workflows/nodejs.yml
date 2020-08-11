@@ -39,8 +39,6 @@ jobs:
         ssh-private-key: ${{ secrets.FISH_SSH }}
         # Hostname or IP to add to the known hosts file
         ssh-host: ${{ matrix.target-host }}
-        
-    - run: echo ${{ matrix.target-host }}
 
     # Cache the build dependencies
     - name: Cache
@@ -58,4 +56,4 @@ jobs:
       run: npm run build
 
     - name: Upload to server
-      run: rsync -av ./_book/ root@data.trails-game.com:/var/www/book/ --delete-after
+      run: rsync -av ./_book/ root@${{ matrix.target-host }}:/var/www/book/ --delete-after
