@@ -4,6 +4,7 @@
   "description": "Falcom轨迹系列中文剧情",
   "main": "index.js",
   "dependencies": {
+    "gitbook": "^3.2.3",
     "gitbook-cli": "^2.3.2",
     "gitbook-plugin-back-to-top-button": "^0.1.4",
     "gitbook-plugin-chapter-fold": "0.0.4",
