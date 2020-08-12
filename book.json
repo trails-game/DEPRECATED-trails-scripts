@@ -2,7 +2,7 @@
     "plugins": [
          "back-to-top-button",
           "splitter",
-          "custom-favicon",
+          "favicon",
           "-lunr",
           "-search",
           "search-pro",
@@ -13,7 +13,11 @@
           "page-treeview"
     ],
     "pluginsConfig" : {
-        "favicon": "favicon-32x32.webp",
+        "favicon":{
+          "shortcut": "images/favicon-32x32.webp",
+          "bookmark": "images/favicon-32x32.webp",
+          "appleTouch": "images/apple-touch-icon.png"
+        },
         "insert-logo-link": {
             "src": "https://trails-game.com/wp-content/uploads/2020/07/cropped-4_favicon-150x150.png",
             "url": "https://trails-game.com",
