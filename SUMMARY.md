@@ -20,6 +20,7 @@
   * [序章](sora-sc/chapter-0.md)
   * [第一章](sora-sc/chapter-1.md)
   * [第二章](sora-sc/chapter-2.md)  
+  * [第三章](sora-sc/chapter-3.md)  
 * [空之轨迹FC](sora-fc/summary.md)
   * [序章](sora-fc/chapter-0.md)
   * [第一章](sora-fc/chapter-1.md)
