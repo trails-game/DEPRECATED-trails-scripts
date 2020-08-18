@@ -4,7 +4,7 @@
 * [闪之轨迹 IV](sen4/summary.md)
   * [place-holder](sen4/chapter-1.md)
 * [闪之轨迹 III](sen3/summary.md)
-  * [place-holder](sen3/chapter-1.md)
+  * [序章 「春日再临」](sen3/chapter-0.md)
 * [闪之轨迹 II](sen2/summary.md)
   * [外传 「边境小镇阿尔斯塔」](sen2/memoir.md)
 * [闪之轨迹 I](sen1/summary.md)
