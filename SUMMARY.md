@@ -8,6 +8,7 @@
 * [闪之轨迹 II](sen2/summary.md)
   * [外传 「边境小镇阿尔斯塔」](sen2/memoir.md)
 * [闪之轨迹 I](sen1/summary.md)
+  * [序章 「托尔兹士官学院」](sen1/chapter-0.md)
   * [幕间 「返乡～迷惘的尽头～」](sen1/intermission.md)
 * [碧之轨迹全剧情对话](aoi/summary.md)
   * [第一章: 预兆～崭新的日子](aoi/chapter-1.md)
