@@ -1,5 +1,10 @@
 ## 第四章: 雾魔的标矢
 
+<audio controls loop style="width: 100%">
+	<source src="../bgms/地方都市ロレント.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
 ### 前往洛连特
   
 **——定期船赛希莉亚号·甲板**
