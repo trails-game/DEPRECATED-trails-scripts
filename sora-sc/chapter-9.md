@@ -1,5 +1,10 @@
 ## 终章: 空之轨迹
 
+<audio controls loop style="width: 100%">
+	<source src="../bgms/中枢塔《アクシスピラー》.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
 ### 探索浮游都市
   
 少年声音：      ……艾……蒂尔……艾丝……尔……醒醒……  

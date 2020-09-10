@@ -1,5 +1,10 @@
 ## 第六章: 羁绊的所在
 
+<audio controls loop style="width: 100%">
+	<source src="../bgms/飛行戦艦グロリアス.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
 ### 前往湖畔研究所
   
 **——游击士协会·柏斯支部**
