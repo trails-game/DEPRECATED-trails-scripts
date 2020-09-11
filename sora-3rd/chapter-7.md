@@ -1,5 +1,10 @@
 ## 第七话: 邃远的炙炎
 
+<audio controls loop style="width: 100%">
+    <source src="../bgms/深淵.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
 （凯文推开铁门，走进《紫苑之家》）
 
 >紫苑之家（Aster House）  

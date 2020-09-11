@@ -1,5 +1,10 @@
 ## 第二话: 异界化王都
 
+<audio controls loop style="width: 100%">
+    <source src="../bgms/宵闇の王城.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
 （回忆）  
 少女的声音：……姐姐……  
             姐姐…………过来啊……  

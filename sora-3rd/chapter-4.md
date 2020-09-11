@@ -1,5 +1,10 @@
 ## 第四话: 昏暗圣痕
 
+<audio controls loop style="width: 100%">
+    <source src="../bgms/The Crimson Stigma.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
 （回忆）  
 声音：——第543期修炼生，凯文·格拉汉姆。  
       在伟大的女神之名下，现委任你为星杯随从骑士——  

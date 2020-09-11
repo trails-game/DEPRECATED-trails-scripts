@@ -1,5 +1,10 @@
 ## 第六话: 守护者的试炼
 
+<audio controls loop style="width: 100%">
+    <source src="../bgms/黒の方舟.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
 （回忆）  
 （电话的铃声响起，有人接起电话）
 
