@@ -1,5 +1,10 @@
 ## 第七章: 四轮之塔
 
+<audio controls loop style="width: 100%">
+	<source src="../bgms/隠された真の姿.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
 ### 四轮之塔的异变
   
 **——格兰赛尔王城·谒见室**

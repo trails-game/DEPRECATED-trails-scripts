@@ -1,5 +1,10 @@
 ## 序章: 少女的决意
 
+<audio controls loop style="width: 100%">
+	<source src="../bgms/ル=ロックルへようこそ.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
 ### 寻找约修亚
 
 **——格兰赛尔王城·贵宾房间五号**

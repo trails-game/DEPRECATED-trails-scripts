@@ -1,5 +1,10 @@
 ## 第八章: 迷乱的大地
 
+<audio controls loop style="width: 100%">
+	<source src="../bgms/灯火が消えた街.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
 ### 零力场发生器的配送
   
 由于导力停止现象全区域面的发生，在利贝尔各地都造成了很多恶果。暖气停止、交通阻断等等诸多问题，无法一一详述。生活陷入了困难的居民们都纷纷对主要的政府部门及工房发起了围攻，抗议之声是此起彼落。  
