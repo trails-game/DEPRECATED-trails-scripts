@@ -12,6 +12,7 @@
   * [第一章 ｢新学期～首次实习～｣](sen1/chapter-1.md)
   * [第二章 ｢美丽翡翠之都｣](sen1/chapter-2.md)
   * [第三章 ｢横跨铁路～苍穹的大地～｣](sen1/chapter-3.md)
+  * [第四章 ｢绯之帝都 ～仲夏祭～｣](sen1/chapter-4.md)
   * [幕间 ｢返乡～迷惘的尽头～｣](sen1/intermission.md)
 * [碧之轨迹](aoi/summary.md)
   * [第一章 ｢预兆～崭新的日子｣](aoi/chapter-1.md)
