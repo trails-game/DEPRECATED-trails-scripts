@@ -34,6 +34,8 @@
     * [｢导力装甲开发计划/后篇｣](sora-3rd/doors/moon-1-2.md)
     * [｢委托人｣](sora-3rd/doors/moon-2.md)
     * [｢飘落的羽翼｣](sora-3rd/doors/moon-3.md)
+    * [｢启程的清晨｣](sora-3rd/doors/moon-4.md)
+    * [｢幸福之石｣](sora-3rd/doors/moon-5.md)
   * [太阳之门](sora-3rd/sun.md)
 * [空之轨迹SC](sora-sc/summary.md)
   * [序章 ｢少女的决意｣](sora-sc/chapter-0.md)
