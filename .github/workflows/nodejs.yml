@@ -57,9 +57,7 @@ jobs:
     needs: build
     steps:
     - name: Setup SSH for target host
-      uses: kielabokkie/ssh-key-and-known-hosts-action@v1.0.2
-      env:
-        ACTION_ALLOW_UNSECURE_COMMANDS: true
+      uses: kielabokkie/ssh-key-and-known-hosts-action@v1.1
       with:
         # Private key required to access the host
         ssh-private-key: ${{ secrets.FISH_SSH }}
@@ -68,15 +66,11 @@ jobs:
 
     - name: Download gitbook artifacts
       uses: actions/download-artifact@v2
-      env:
-        ACTION_ALLOW_UNSECURE_COMMANDS: true
       with:
         path: _book
         name: gitbook-artifacts
 
     - name: Upload to server
-      env:
-        ACTION_ALLOW_UNSECURE_COMMANDS: true
       run: rsync -av _book/ root@202.91.33.33:/var/www/book/ --delete-after
 
   deploy-kr:
@@ -85,8 +79,6 @@ jobs:
     steps:
     - name: Setup SSH for target host
       uses: kielabokkie/ssh-key-and-known-hosts-action@v1.0.2
-      env:
-        ACTION_ALLOW_UNSECURE_COMMANDS: true
       with:
         # Private key required to access the host
         ssh-private-key: ${{ secrets.FISH_SSH }}
@@ -95,13 +87,9 @@ jobs:
 
     - name: Download gitbook artifacts
       uses: actions/download-artifact@v2
-      env:
-        ACTION_ALLOW_UNSECURE_COMMANDS: true
       with:
         path: _book
         name: gitbook-artifacts
 
     - name: Upload to server
-      env:
-        ACTION_ALLOW_UNSECURE_COMMANDS: true
       run: rsync -av _book/ ubuntu@193.122.106.159:/var/www/book/ --delete-after
