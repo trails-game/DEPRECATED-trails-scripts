@@ -1,5 +1,10 @@
 ## 零之轨迹 - 剧情简介
 
+<audio controls autoplay loop style="width: 100%">
+	<source src="../bgms/zero-no-kiseki.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+</audio>
+
 ### 故事背景
 
 克洛斯贝尔自治州，因历史原因，这个被埃雷波尼亚帝国和卡尔瓦德共和国夹在中间的自治州，以大陆上数一数二的贸易和金融都市为地位发展起来的区域，暗藏着各种危机。受两大国操控的议员、官员互相斗争，黑手党与外国犯罪组织也在暗中扩张势力，战争如箭在弦。居民们对克洛斯贝尔的政府已逐渐失去信心。  
