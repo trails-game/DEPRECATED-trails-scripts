@@ -57,7 +57,7 @@ jobs:
     needs: build
     steps:
     - name: Setup SSH for target host
-      uses: kielabokkie/ssh-key-and-known-hosts-action@v1.1
+      uses: kielabokkie/ssh-key-and-known-hosts-action@v1.1.0
       with:
         # Private key required to access the host
         ssh-private-key: ${{ secrets.FISH_SSH }}
@@ -78,7 +78,7 @@ jobs:
     needs: build
     steps:
     - name: Setup SSH for target host
-      uses: kielabokkie/ssh-key-and-known-hosts-action@v1.0.2
+      uses: kielabokkie/ssh-key-and-known-hosts-action@v1.1.0
       with:
         # Private key required to access the host
         ssh-private-key: ${{ secrets.FISH_SSH }}
