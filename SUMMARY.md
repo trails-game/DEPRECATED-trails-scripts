@@ -1,6 +1,10 @@
 # Summary
 
 * [前言](README.md)
+* [创之轨迹](hajimari/summary.md)
+  * [追忆石盘](hajimari/episode.md)
+    * [重逢～少女的忧郁～](hajimari/episodes/ep7.md)
+    * [回忆的眼神无比火热](hajimari/episodes/EX3.md)
 * [闪之轨迹Ⅳ](sen4/summary.md)
   * [place-holder](sen4/chapter-1.md)
 * [闪之轨迹Ⅲ](sen3/summary.md)
