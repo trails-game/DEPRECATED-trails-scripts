@@ -23,6 +23,7 @@
     * [布莱特家的假日](hajimari/episodes/ex1.md)
     * [踏出的一步](hajimari/episodes/ex2.md)
     * [回忆的眼神无比火热](hajimari/episodes/EX3.md)
+    * [第Ⅱ分校研修祭](hajimari/episodes/ex4.md)
 * [闪之轨迹Ⅳ](sen4/summary.md)
   * [place-holder](sen4/chapter-1.md)
 * [闪之轨迹Ⅲ](sen3/summary.md)
