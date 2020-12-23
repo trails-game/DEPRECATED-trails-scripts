@@ -62,7 +62,7 @@ jobs:
         # Private key required to access the host
         ssh-private-key: ${{ secrets.FISH_SSH }}
         # Hostname or IP to add to the known hosts file
-        ssh-host: 202.91.33.33
+        ssh-host: ${{ secrets.US_HOST }}
 
     - name: Download gitbook artifacts
       uses: actions/download-artifact@v2
@@ -71,8 +71,10 @@ jobs:
         name: gitbook-artifacts
 
     - name: Upload to server
-      run: rsync -av _book/ root@202.91.33.33:/var/www/book/ --delete-after
-
+      env:
+        HOST: ${{ secrets.US_HOST }}
+      run: rsync -av _book/ root@${HOST}:/var/www/book/ --delete-after
+    
   deploy-kr:
     runs-on: ubuntu-latest
     needs: build
@@ -83,7 +85,7 @@ jobs:
         # Private key required to access the host
         ssh-private-key: ${{ secrets.FISH_SSH }}
         # Hostname or IP to add to the known hosts file
-        ssh-host: 193.122.106.159
+        ssh-host: ${{ secrets.KR_HOST }}
 
     - name: Download gitbook artifacts
       uses: actions/download-artifact@v2
