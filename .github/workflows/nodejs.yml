@@ -95,5 +95,5 @@ jobs:
 
     - name: Upload to server
       env:
-        HOST: ${{ secrets.US_HOST }}
+        HOST: ${{ secrets.KR_HOST }}
       run: rsync -avz _book/ root@${HOST}:/var/www/book/ --delete-after
