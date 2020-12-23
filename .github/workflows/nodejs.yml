@@ -73,7 +73,7 @@ jobs:
     - name: Upload to server
       env:
         HOST: ${{ secrets.US_HOST }}
-      run: rsync -av _book/ root@${HOST}:/var/www/book/ --delete-after
+      run: rsync -avz _book/ root@${HOST}:/var/www/book/ --delete-after
     
   deploy-kr:
     runs-on: ubuntu-latest
@@ -94,4 +94,6 @@ jobs:
         name: gitbook-artifacts
 
     - name: Upload to server
-      run: rsync -av _book/ ubuntu@193.122.106.159:/var/www/book/ --delete-after
+      env:
+        HOST: ${{ secrets.US_HOST }}
+      run: rsync -avz _book/ root@${HOST}:/var/www/book/ --delete-after
