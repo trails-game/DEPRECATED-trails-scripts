@@ -33,12 +33,13 @@ jobs:
 
     # Cache the build dependencies
     - name: Cache
-      uses: actions/cache@v2.1.0
+      uses: actions/cache@v2
       with:
         path: |
           ~/cache
           !~/cache/exclude
           **/node_modules
+          _book
         key: ${{ runner.os }}-${{ hashFiles('**/lockfiles') }}
 
     - run: npm install
