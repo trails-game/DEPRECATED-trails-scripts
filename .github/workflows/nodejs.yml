@@ -40,7 +40,7 @@ jobs:
           !~/cache/exclude
           **/node_modules
           _book
-        key: ${{ runner.os }}-${{ hashFiles('**/lockfiles') }}
+        key: ${{ runner.os }}-cache
 
     - run: npm install
 
